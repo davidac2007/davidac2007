@@ -8,7 +8,7 @@
 ](https://www.linkedin.com/in/david-avenda%C3%B1o-casanova/)
 - ⚡ Fun fact: I love cats 🐱
 
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 <p align="center">
 <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" alt="Dart" height="40" style="vertical-align:top; margin:4px">
 <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
@@ -24,26 +24,19 @@
 <img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_960_720.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wxqfCtjc5eOKPN8hfbQmdVuA7mB8phMAmA&usqp=CAU" height="40" style="vertical-align:top; margin:4px">
 
-## :email: Find me on:
+## :email: Find me on
 <!--
 [<img align="left" alt="DavidAC | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
 <p align="center">
 <a href="https://www.linkedin.com/in/david-avenda%C3%B1o-casanova/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
-## :trophy: My Github Stats:
+## :trophy: My Github Stats
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=davidac2007&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=davidac2007&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=davidac2007&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=davidac2007&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=davidac2007&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=davidac2007&hide=php&theme=tokyonight" />
-</a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidac2007&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+## My Top Langs
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidac2007&theme=tokyonight&layout=compact)
 
 </p>
