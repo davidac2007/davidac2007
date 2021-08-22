@@ -27,10 +27,10 @@
 
 ## :email: Find me on
 <!--
-[<img align="left" alt="DavidAC | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DavidAC | LinkedIn" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Flinkedin_174857&psig=AOvVaw0YAoPv-b5miSfPhLDi8GuU&ust=1629695365735000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDE-rzuw_ICFQAAAAAdAAAAABAD" />][linkedin]
 -->
 <p align="center">
-<a href="https://www.linkedin.com/in/david-avenda%C3%B1o-casanova/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/david-avenda%C3%B1o-casanova/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## :trophy: My Github Stats
 
