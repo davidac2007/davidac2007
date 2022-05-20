@@ -2,8 +2,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=davidac2007.davidac2007) [![Github](https://img.shields.io/github/followers/davidac2007?label=Followers&logo=Github)](https://github.com/davidac2007)
 
 
-- 🌱 I’m currently learning Flutter & Swift
-- 💬 Ask me about Flutter & Swift!💙🧡
+- 🌱 I’m currently learning SwiftUI and Combine!
+- 💬 Ask me about Flutter & iOS Dev!💙🧡
 - 📫 How to reach me: find me on LinkedIn as [David Avendaño Casanova
 ](https://www.linkedin.com/in/david-avenda%C3%B1o-casanova/)
 - ⚡ Fun fact: I love cats 🐱
